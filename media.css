@@ -1,0 +1,92 @@
+@media screen and (max-width: 1500px) {
+    #sayt{
+        width: 900px;
+        height: 3650px;
+        margin: 0 auto;
+    }
+
+    .row{
+        width: 800px;
+        height: 3300px;
+        /* border: 1px solid red; */
+    }
+
+    #header{
+        width: 800px;
+        height: 200px;   
+    }
+    #header .hleft{
+        height: 60px;
+    }
+    
+    #header .hleft p{
+        font-size: 40pt;
+        text-align: center;
+    }
+    #header .hright .link a{
+        font-size: 15pt;
+    }
+    #content .row .tepa{
+        width: 800px;
+        height: 150px;
+    }
+    
+    #content .row .tepa .p1{
+        font-size: 30pt;
+    }
+    
+    #content .row .tepa .p2{
+        font-size: 25pt;
+        margin-top: 10px;
+    }
+    
+    #content .row .tepa2{
+        width: 800px;
+    }
+
+    
+    #content .row .tepa2 p{
+        font-size: 25pt;
+        margin-left: 20px;
+    }
+
+    #content .row .orta{
+        width: 800px;
+        height: 1550px;
+        
+    }
+
+    #content .row .orta .left{
+        margin-left: 200px;
+    }
+
+    #content .row .orta .center{
+        margin-left: 200px;
+        margin-top: 20px;
+    }
+
+    #content .row .orta .right{
+        margin-left: 200px;
+        margin-top: 20px;
+    }
+
+    #content .row .past{
+        /* border: 1px solid red; */
+        width: 800px;
+        height: 1280px;
+    }
+
+    #content .row .past .left{
+        border: none;
+        margin-left: 50px;
+    }
+
+    #footer p{
+        width: 800px;
+        height: 50px;
+        /* border: 1px solid red; */
+        text-align: center;
+        font-size: 14pt;
+        margin-top: 10px;
+    }
+}
